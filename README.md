@@ -3,8 +3,6 @@
 ## I'm a Developer!
 - 🌱 I’m currently learning everything 
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Get a job as a Front-end Developer!
-- ⚡ Fun fact: I was awarded coach of the month in Allsvenskan Fantasy 2019 🤣
 
 
 ### Connect with me:
