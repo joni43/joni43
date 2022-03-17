@@ -1,7 +1,5 @@
 ### Hi there, I'm Jonathan - [website] 👋
-
-## I'm a Developer!
-- 🌱 I’m currently learning everything 
+ 
 - 🤝 I’m looking to collaborate with other content creators
 
 
